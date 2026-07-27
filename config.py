@@ -1,0 +1,4 @@
+import os
+
+YOUTUBE_API_KEY = "AIzaSyAJoMagJ27IQ4IfkpW2-rYw0WdjhtRkQW0"
+TOKEN = "8792278438:AAEpuSGCO-hcgZ-W03K_daKpXNllMoEU-G4"
