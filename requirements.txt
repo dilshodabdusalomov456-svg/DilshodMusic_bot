@@ -1,0 +1,3 @@
+python-telegram-bot
+yt-dlp
+google-api-python-client
